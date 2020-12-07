@@ -1,3 +1,11 @@
-# Personal Collection Of all Files to form a Portfolio
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-This Github respository is a collection of multiple separate repositories all pushed into one for the purpose of developing a portfolio and development profile.
+#CKJ
+## Craig Kimball
+### Personal Portfolio
+
+##Github Information
+This Github Repository can be found at [Github](https://github.com/CraigKimballJ/CKJ)
+
+##Contact Information
+
+
+
